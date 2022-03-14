@@ -19,18 +19,21 @@
             return "$this->email added a new friend!";
         }
 
+        ## getters
+        
+        ## setters
+
+
+
     }
 
     $userOne = new User('Arthur', 'arthur@vanderlinde.com');
     $userTwo = new User('Dutch', 'dutch@vanderlinde.com');
 
-    // echo $userOne->addFriend();
-
     // echo $userOne -> email . '<br/>';
     // echo $userTwo -> email . '<br/>';
 
-    // print_r(get_class_vars('User'));
-    // print_r(get_class_methods('User'));
+    // echo $userOne->addFriend();
 
 ?>
 
