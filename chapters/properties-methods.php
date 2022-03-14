@@ -36,7 +36,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>OOP PHP - Index</title>
+        <title>OOP PHP - Properties & Methods</title>
     </head>
     <body>
         
