@@ -20,7 +20,7 @@
         }
 
         ## getters
-        
+
         ## setters
 
 
@@ -33,7 +33,7 @@
     // echo $userOne -> email . '<br/>';
     // echo $userTwo -> email . '<br/>';
 
-    // echo $userOne->addFriend();
+    echo $userOne->addFriend();
 
 ?>
 
@@ -43,6 +43,7 @@
         <title>OOP PHP - Index</title>
     </head>
     <body>
-        
+        <h1>Index File</h1>
+        <p>Where the magic might happen</p>
     </body>
 </html>
