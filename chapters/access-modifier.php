@@ -37,7 +37,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>OOP PHP - Index</title>
+        <title>OOP PHP - Access Modifiers</title>
     </head>
     <body>
         
