@@ -79,7 +79,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>OOP PHP - Index</title>
+        <title>OOP PHP - Clone & Destruct</title>
     </head>
     <body>
         <h1>Index File</h1>
