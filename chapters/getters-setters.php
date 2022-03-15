@@ -40,6 +40,16 @@
     $userOne = new User('Arthur', 'arthur@vanderlinde.com');
     $userTwo = new User('Dutch', 'dutch@vanderlinde.com');
 
+    $userOne->setEmail('arthur.morgan@vanderlinde.com');
+
+    // $userOne->email = 3;
+
+    // echo $userOne -> email . '<br/>';
+    // echo $userTwo -> email . '<br/>';
+
+    // echo $userOne->addFriend();
+    echo $userOne->getEmail() . '<br>';
+    echo $userTwo->getEmail();
 
 ?>
 
