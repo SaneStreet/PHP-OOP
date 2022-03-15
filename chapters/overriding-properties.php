@@ -59,13 +59,18 @@
     $userTwo = new User('Hosea', 'hosea@vanderlinde.com');
     $userThree = new AdminUser('Dutch', 'dutch@vanderlinde.com', 5);
 
+    echo $userOne->role . '<br>';
+    echo $userThree->role . '<br>';
+
+    echo $userOne->message() . '<br>';
+    echo $userThree->message() . '<br>';
 
 ?>
 
 <!DOCTYPE html>
 <html>
     <head>
-        <title>OOP PHP - Index</title>
+        <title>OOP PHP - Overriding Properties & Methods</title>
     </head>
     <body>
         <h1>Index File</h1>
