@@ -56,7 +56,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>OOP PHP - Index</title>
+        <title>OOP PHP - Getters & Setters</title>
     </head>
     <body>
         <h1>Index File</h1>

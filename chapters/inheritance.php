@@ -48,12 +48,16 @@
     $userTwo = new User('Hosea', 'hosea@vanderlinde.com');
     $userThree = new AdminUser('Dutch', 'dutch@vanderlinde.com', 5);
 
+    echo $userThree -> username . '<br>';
+    echo $userThree -> getEmail() . '<br>';
+    echo $userThree -> level . '<br>';
+
 ?>
 
 <!DOCTYPE html>
 <html>
     <head>
-        <title>OOP PHP - Index</title>
+        <title>OOP PHP - Inheritance</title>
     </head>
     <body>
         <h1>Index File</h1>
