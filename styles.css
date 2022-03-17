@@ -28,9 +28,13 @@ body{
   input[type='submit']{
     margin: 24px auto;
     font-size: 18px;
-    background: coral;
+    background: orange;
     color: #fff;
     padding: 6px 16px;
     border: none;
     border-radius: 10px;
   }
+
+.error {
+    color: orangered;
+}
